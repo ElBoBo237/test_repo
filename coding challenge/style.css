@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.6;
+  color: #333;
+  background-color: skyblue;
+}
+ 
+section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+ 
+h1, h2, h3 {
+  color: #1f3864;
+}
+ 
+img {
+  max-width: 100%;
+  border: 1px solid #ccc;
+}
+ 
+a {
+  color: #1f3864;
+}
+ 
+#Footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #777;
+}
